@@ -3,3 +3,9 @@
 ## Créditos de las materias
 
 ## Profesores
+
+## Horarios
+
+## Estudiantes
+
+## Edificios
